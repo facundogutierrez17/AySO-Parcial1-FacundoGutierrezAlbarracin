@@ -1,0 +1,233 @@
+    1  sudo apt-get installed tree
+    2  sudo apt-get install tree
+    3  tree
+    4  apt install tree
+    5  sudo apt install tree
+    6  sudo snap install tree
+    7  tree
+    8  pdw
+    9  pwd
+   10  cd : cd :
+   11  cd :
+   12  cd .. cd ..
+   13  cd ..
+   14  pwd
+   15  tree
+   16  exit
+   17  mkdir parcial1
+   18  tree
+   19  cd parcial1
+   20  tree
+   21  vim puntoa.sh
+   22  tree
+   23  vim puntoa.sh
+   24  ch mod 755 puntoa.sh
+   25  sudo chmod 755 puntoa.sh
+   26  tree
+   27  ./puntoa.sh
+   28  vim puntoa.sh
+   29  ./puntoa.sh
+   30  tree
+   31  vim puntoa.sh
+   32  tree
+   33  ./puntoa.sh
+   34  tree
+   35  vim puntoa.sh
+   36  rm
+   37  rm-r Examenes-UTN/
+   38  rm -r Examenes-UTN/
+   39  tree
+   40  ./puntoa.sh
+   41  tree
+   42  rm -r Examenes-UTN/
+   43  vim puntoa.sh
+   44  ./puntoa.sh
+   45  tree
+   46  vim puntoa.sh
+   47  -
+   48  rm -r alumno_2
+   49  rm -r alumno_2,
+   50  rm -r alumno_3
+   51  rm -r alumno_3}
+   52  tree
+   53  history
+   54  pwd
+   55  vim puntob.sh
+   56  exit
+   57  history
+   58  lsblk
+   59  vim puntob.sh
+   60  ./puntob.sh
+   61  sudo ./puntob.sh
+   62  vim puntoa.sh
+   63  ./puntoa.sh
+   64  tree
+   65  rm -r puntob.sh
+   66  tree
+   67  cd parcial1
+   68  vim puntob.sh
+   69  lsblk
+   70  ./puntob.sh
+   71  sudo ./puntob.sh
+   72  vim puntob.sh
+   73  tree
+   74  sudo chmod 755 puntob.sh
+   75  tree
+   76  ./puntob.sh
+   77  wich fdisk
+   78  sudo snap install fdisk
+   79  snap install fdisk
+   80  sudo snap install fdisk
+   81  sudo apt install fdisk
+   82  pwd
+   83  tree
+   84  ./puntob.sh
+   85  vim puntob.sh
+   86  ./puntob.sh
+   87  vim puntob.sh
+   88  sudo ./puntob.sh
+   89  vim puntoc.sh
+   90  tree
+   91  vim puntoc.sh
+   92  sudo chmod 755 puntoc.sh
+   93  tree
+   94  ./puntoc.sh
+   95  sudo ./puntoc.sh
+   96  vim puntoc.sh
+   97  tree
+   98  vim puntod.sh
+   99  sudo chmod 755 puntod.sh
+  100  vim puntod.sh
+  101  tree
+  102  sudo ./puntod.sh
+  103  ./puntod.sh
+  104  tree
+  105  vim puntod.sh
+  106  vim puntoe.sh
+  107  sudo chmod 755 puntoe.sh
+  108  tree
+  109  ./puntoe.sh
+  110  sudo ./puntoe.sh
+  111  ./puntoe.sh
+  112  vim puntoe.sh
+  113  ./puntoe.sh
+  114  vim puntof.sh
+  115  tree
+  116  sudo chmod 755 puntof.sh
+  117  tree
+  118  ./puntof.sh
+  119  sudo ./puntof.sh
+  120  vim puntob.sh
+  121  vim puntoc.sh
+  122  vim puntoe.sh
+  123  vim puntod.sh
+  124  vim puntoe.sh
+  125  ./puntof.sh
+  126  ./puntoe.sh
+  127  sudo ./puntoe.sh
+  128  history
+  129  tree
+  130  exit
+  131  history
+  132  cd parcial1
+  133  tree
+  134  vim puntoc.sh
+  135  ./puntoe.sh
+  136  tree
+  137  vim puntoe.sh
+  138  tree
+  139  cat Filtro_Basico.txt
+  140  rm -r Filtro_Basicos.txt
+  141  rm -r Filtro_Basico.txt
+  142  ./puntoe.sh
+  143  cat Filtro_Basico.txt
+  144  vim puntoe.sh
+  145  rm -r Filtro_Basico.txt
+  146  ./puntoe.sh
+  147  tree
+  148  lsblk
+  149  fdisk -f
+  150  lsblk -f
+  151   ./puntob.sh
+  152  vim puntob.sh
+  153  ./puntob.sh
+  154  vim puntob.sh
+  155  fdisk/dev/sdc
+  156  fdisk /dev/sdc
+  157  sudo fdisk /dev/sdc
+  158  tree
+  159  vim puntoc.sh
+  160  vim puntod.sh
+  161  ./puntoc.sh
+  162  ./puntod.sh
+  163  vim puntob.sh
+  164  vim puntoe.sh
+  165  vim puntod.sh
+  166  ./puntod.sh
+  167  tree
+  168  chmod 777 Examenes-UTN
+  169  tree
+  170  chmod 777 Examenes-UTN/
+  171  tree
+  172  ./puntod.sh
+  173  vim puntod.sh
+  174  exit
+  175  history
+  176  tree
+  177  exit
+  178  sudi fdisk -1
+  179  sudo fdisk -1
+  180  vim puntof.sh
+  181  rm -r puntof.sh
+  182  cd parcial1
+  183  tree
+  184  vim puntof.sh
+  185  sudo fdisk -1
+  186  vim puntob.sh
+  187  lsblk
+  188  vim puntob.sh
+  189  lsblk -f
+  190  ./puntob.sh
+  191  lsblk -f
+  192  vim puntob.sh
+  193  cd /mnt
+  194  tree
+  195  sudo tree
+  196  cd parcial1
+  197  cd /parcial1
+  198  cd parcial1/
+  199  cd
+  200  cd parcial1
+  201  vim puntob.sh
+  202  fdisk dev/sdd
+  203  d
+  204  fdisk /dev/sdd
+  205  sudo fdisk /dev/sdd
+  206  vim puntob.sh
+  207  ./puntob.sh
+  208  y
+  209  cd /mnt
+  210  tree
+  211  sudo tree
+  212  tree
+  213  cd
+  214  cd parcial1
+  215  tree
+  216  ./puntoa.sh
+  217  sudo ./puntoa.sh
+  218  tree
+  219  fdisk 
+  220  fdisk -f
+  221  fdisk /dev/sdd
+  222  sudo fdisk /dev/sdd
+  223  tree
+  224  rm -r Examenes-UTN/
+  225  sudo rm -r Examenes-UTN/
+  226  tree
+  227  sudo rm -r estructura_asimetrica/
+  228  cd parcial1
+  229  tree
+  230  sudo rm -r Filtro_Avanzado.txt
+  231  sudo rm -r Filtro_Basico.txt 
+  232  tree
+  233  history > historial.txt
